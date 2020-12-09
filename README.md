@@ -3,4 +3,4 @@
 
 Side intentions:
 - Use haskell to implement algorithms and data structures :P
-
+- Haskell is awesome!
