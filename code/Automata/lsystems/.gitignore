@@ -1,0 +1,7 @@
+lsystem.cabal
+.stack-work/
+dist/
+*.svg
+*.hi
+*.o
+Main
